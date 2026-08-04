@@ -27,7 +27,7 @@ I'm **Microsoft Certified: Azure Administrator Associate (AZ-104)**, and I'm act
 
 - 🔭 Currently building hands-on Azure infrastructure projects to accompany my AZ-104 certification
 - 🌱 Deepening my skills in Azure networking, RBAC, and Infrastructure as Code
-- 🎓 Pursuing my Master's in Computer Applications (MCA), specializing in Cloud Computing, at Chandigarh University
+- 🎓 Completed my Master's in Computer Applications (MCA), specializing in Cloud Computing, from Chandigarh University
 - 📍 Based in Kanpur, Uttar Pradesh, India
 - 💬 Ask me about Azure Virtual Machines, VNets, NSGs, RBAC, Entra ID, or Azure infrastructure design
 
