@@ -21,15 +21,15 @@
 
 ### 🧭 About Me
 
-I'm an IT infrastructure professional with **3 years of experience** supporting enterprise environments — Active Directory administration, identity & access management, and incident resolution under ITIL practices at **HCLTech**.
+I'm an IT infrastructure professional with **3+ years of experience** supporting enterprise environments — Active Directory administration, identity & access management, and incident resolution under ITIL practices at **HCLTech**.
 
 I'm **Microsoft Certified: Azure Administrator Associate (AZ-104)**, and I'm actively transitioning from infrastructure support into a dedicated **Azure Cloud Engineer** role, backed by hands-on Azure practice and real deployment projects (not just theory).
 
 - 🔭 Currently building hands-on Azure infrastructure projects to accompany my AZ-104 certification
 - 🌱 Deepening my skills in Azure networking, RBAC, and Infrastructure as Code
-- 🎓 Pursuing my Master's in Computer Applications (MCA) at Chandigarh University
+- 🎓 Pursuing my Master's in Computer Applications (MCA), specializing in Cloud Computing, at Chandigarh University
 - 📍 Based in Kanpur, Uttar Pradesh, India
-- 💬 Ask me about Active Directory, IAM, ITIL incident/change management, or Azure fundamentals
+- 💬 Ask me about Azure Virtual Machines, VNets, NSGs, RBAC, Entra ID, or Azure infrastructure design
 
 ---
 
@@ -49,12 +49,6 @@ I'm **Microsoft Certified: Azure Administrator Associate (AZ-104)**, and I'm act
 
 **Methodology**
 `ITIL` `Incident Management` `Change Management`
-
----
-
-### 📌 Featured Project
-
-**[azure-cloud-projects](https://github.com/arcadekta-code/azure-cloud-projects)** — AZ-104 hands-on learning portfolio: enterprise-style Azure deployments including VNet/NSG design, Windows Server VM provisioning, IIS website hosting, and disciplined cost cleanup, documented end-to-end with architecture diagrams and deployment evidence.
 
 ---
 
